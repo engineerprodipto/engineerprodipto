@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @engineerprodipto
-- 👀 I’m interested in Mathematics, AGI, deep learning, Reinforcement Learning (a begineer in all these presently) and Electrical Engineering as I'm an Electrical Engineer by profession. 
-- 🌱 I’m currently learning Python, its environments and libraries using Anaconda.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 👋 Hi, I’m Prodipto!
+- ⚡ I am actually a High Voltage Electrical Engineer  with more that 5 years of experience but currently exploring the world of Machine Learning and Robotics.
+- 👀 I’m interested in Mathematics, AGI, deep learning, Reinforcement Learning. 
+- 🌱 I’m currently learning how to implement end-to-end deeplearning projects and also looking to collaborate on machine learning projects.
+- 💞️ I believe that deep thinking and self reflection while taking long walks recharges more than any other technique. 
 - 📫 How to reach me prodiptoh63@gmail.com and prodiptoh64@gmail.com.
