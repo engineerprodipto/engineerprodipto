@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m Prodipto!<br>⚡ I am actually a High Voltage Electrical Engineer with more that 5 years of experience but currently exploring the world of Machine Learning and Robotics.<br>👀 I’m interested in Mathematics, AGI, deep learning, Reinforcement Learning.<br>🎓 Currently I am a Master's student studying Autonomy Technologies which is a blended course comprising of Robotics, AI and Medical Engineering.<br>🌱 I’m currently learning how to implement end-to-end deeplearning projects and also looking to collaborate on machine learning projects.<br>💞️ I believe that deep thinking and self reflection while taking long walks recharges more than any other technique.<br>📫 How to reach me prodiptoh63@gmail.com and prodipto.haldar@fau.de
 
+# My favourite quote about AI:
+"Intelligence is not what you know, its what you do when you don't know"
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prodipto-haldar-b39633126/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prodiptoh63@gmail.com) 
