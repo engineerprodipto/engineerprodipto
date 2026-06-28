@@ -1,5 +1,23 @@
-# 💫 About Me:
-👋 Hi, I’m Prodipto!<br>⚡ I am actually a High Voltage Electrical Engineer with more that 5 years of experience but currently exploring the world of Machine Learning and Robotics.<br>👀 I’m interested in Mathematics, AGI, deep learning, Reinforcement Learning.<br>🎓 Currently I am a Master's student studying Autonomy Technologies which is a blended course comprising of Robotics, AI and Medical Engineering.<br>🌱 I’m currently learning how to implement end-to-end deeplearning projects and also looking to collaborate on machine learning projects.<br>💞️ I believe that deep thinking and self reflection while taking long walks recharges more than any other technique.<br>📫 How to reach me prodiptoh63@gmail.com and prodipto.haldar@fau.de
+# 👋 Hi, I'm Prodipto!
+
+⚡ High Voltage Electrical Engineer turned AI and Robotics enthusiast, with 5+ years of industry experience before starting an M.Sc. in Autonomy Technologies at FAU Erlangen-Nürnberg.
+
+🎓 My work sits at the intersection of Robotics, Machine Learning, Intelligent Energy Systems, and Scientific AI.
+
+🔬 I'm interested in Machine Learning, Deep Learning, Reinforcement Learning, Generative AI, Time-Series Analysis, and the long-term pursuit of AGI.
+
+💻 Currently building end-to-end ML projects, exploring research ideas, and trying to convince neural networks to cooperate.
+
+⚙️ My engineering background keeps drawing me toward AI applications for real-world infrastructure, robotics, and energy systems.
+
+🚶 I firmly believe the best debugging happens during long walks. The second-best tool is `print()`.
+
+🤝 Always happy to collaborate on interesting ML, Robotics, or Energy-AI projects.
+
+📫 Reach me at:
+
+* **[prodiptoh63@gmail.com](mailto:prodiptoh63@gmail.com)**
+* **[prodipto.haldar@fau.de](mailto:prodipto.haldar@fau.de)**
 
 # My favourite quote about AI:
 "Intelligence is not what you know, its what you do when you don't know"
